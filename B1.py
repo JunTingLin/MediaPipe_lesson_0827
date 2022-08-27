@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# B1: 手部動作
 import cv2
 import mediapipe as mp
 

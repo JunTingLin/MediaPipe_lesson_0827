@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# C2: 將臉部嘴唇替換成吸血鬼圖檔
 import cv2
 import numpy as np
 import mediapipe as mp

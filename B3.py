@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# B3: 在手指根部位置加上透明png圖檔
 import cv2
 import numpy as np
 import mediapipe as mp

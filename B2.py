@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# B2: 客製化特徵點與連接的顏色
 import cv2
 import mediapipe as mp
 

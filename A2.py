@@ -1,6 +1,7 @@
+# A2: 播mp4檔案
 import cv2
 
-cap = cv2.VideoCapture('20220827.mp4')
+cap = cv2.VideoCapture('20220827.mp4') #改成擷取目錄下的mp4影像
 if(cap.isOpened()==False):
     print("Error opening video stream or file")
 
