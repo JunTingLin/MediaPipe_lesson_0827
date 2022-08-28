@@ -1,4 +1,4 @@
-# B1B: 小練習-手部運動偵測YouTube串流
+# B1B: 小練習-手部運動偵測YouTube串流(手式舞)
 import cv2
 import pafy
 import mediapipe as mp
